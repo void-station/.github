@@ -4,8 +4,6 @@
 ### *Exploring the digital unknown.*
 
 [![GitHub organization](https://img.shields.io/badge/GitHub-VoidStation-blue?logo=github)](https://github.com/VoidStation)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
 
 ---
 
